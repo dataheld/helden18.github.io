@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Verena and Max Say Hi
 
-You can use the [editor on GitHub](https://github.com/helden18/helden18.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![helden](https://user-images.githubusercontent.com/5372770/121901694-e935ca80-cd26-11eb-8acb-d771c8eb08d9.jpeg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is our family repository.
+It doesn't really do anything, but if you want to you can reach us both at `info@helden18.de`.
 
-### Markdown
+- Verena is at https://www.verenaheld.in
+- Max is at https://www.maxheld.de
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Legal
 
-```markdown
-Syntax highlighted code block
+https://www.helden18.de is Verena & Maximilian Held's personal website.
 
-# Header 1
-## Header 2
-### Header 3
+> Maximilian Held  
+> Kiefernweg 35  
+> 28857 Syke  
+> Germany 
 
-- Bulleted
-- List
+Maximilian Held (see address above) is responsible for the content on this website, pursuant § 10 paragraph 3 MDStV. No liability is assumed for the content of external links. The content of linked websites is under the sole responsibility of the respective operator.
 
-1. Numbered
-2. List
+Click here to [accept](#) or [reject](http://www.google.com) the below terms and conditions.
 
-**Bold** and _Italic_ and `Code` text
+All rights for material available on this site are reserved. Note that some of the data may also involve intellectual property of third parties. The material available here is meant for personal use only. You may not make any of the material from this website available to others.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/helden18/helden18.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please inform me if you notice that your personal rights or intellectual property rights or those of third parties are violated on this website. The respective content will be removed or changed as soon as possible.
