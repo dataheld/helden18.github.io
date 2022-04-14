@@ -9,14 +9,6 @@ It doesn't really do anything, but if you want to you can reach us both at `info
 - Max is at [https://www.maxheld.de](https://www.maxheld.de)
 
 
-### Make an Appointment
-
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/helden18" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
-
-
 ### Legal
 
 https://www.helden18.de is Verena & Maximilian Held's personal website.
