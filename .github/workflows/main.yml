@@ -26,7 +26,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN_PAGES }}
           accountId: ${{ vars.CLOUDFLARE_ACCOUNT_ID_HELDEN18DE }}
-          projectName: helden18.de
+          projectName: helden18-github-io
           directory: _site
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
           wranglerVersion: '3'
