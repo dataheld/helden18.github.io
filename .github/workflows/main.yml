@@ -20,3 +20,12 @@ jobs:
         run: quarto render
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
+      - name: Publish to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN_PAGES }}
+          accountId: ${{ env.CLOUDFLARE_ACCOUNT_ID_HELDEN18DE }}
+          projectName: helden18.de
+          directory: _site
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          wranglerVersion: '3'
