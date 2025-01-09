@@ -8,15 +8,14 @@ It doesn't really do anything, but if you want to you can reach us both at `info
 - Verena is at [https://www.verenaheld.in](https://www.verenaheld.in)
 - Max is at [https://www.maxheld.de](https://www.maxheld.de)
 
-
 ### Legal
 
 https://www.helden18.de is Verena & Maximilian Held's personal website.
 
-> Maximilian Held  
-> Kiefernweg 35  
-> 28857 Syke  
-> Germany 
+> Maximilian Held
+> Kiefernweg 35
+> 28857 Syke
+> Germany
 
 Maximilian Held (see address above) is responsible for the content on this website, pursuant § 10 paragraph 3 MDStV. No liability is assumed for the content of external links. The content of linked websites is under the sole responsibility of the respective operator.
 
